@@ -63,10 +63,3 @@ Now, create` view-cart.blade.php` file into resources directory to add paypal pa
 Then, define routes into `routes/web.php` file.
 
 Finally, Test the integration.
-
-
-
-
-
-
-# paypalIntegration
