@@ -40,7 +40,7 @@ Create PaypalController by following command:
 
     php artisan make:controller PayPalController
  
- Next, configure client id and secret key as below also create paypalPayment and getStatus methods.
+ Next, configure client id and secret key as below also create `paypalPayment()` and `getStatus()` methods.
     
         private $apiContext;
     
